@@ -23,7 +23,7 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/banyansecurity/wireguard-apple",
       "state" : {
-        "revision" : "b79f0f150356d8200a64922ecf041dd020140aa0"
+        "revision" : "1fcd5d71f923e3f5300c89c44eaa7670a54b6505"
       }
     }
   ],
